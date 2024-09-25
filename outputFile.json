@@ -1,0 +1,1906 @@
+[
+  {
+    "_id": {
+      "$oid": "66f3a823c9ef32cc809ae716"
+    },
+    "payment_methods": [
+      {
+        "charging_system": "CIS",
+        "icon": "airtime",
+        "id": 1,
+        "links": null,
+        "name": "Airtime",
+        "payment_source": "",
+        "type": "airtime",
+        "value": "airtime"
+      },
+      {
+        "charging_system": "MOMO",
+        "icon": "momo",
+        "id": 2,
+        "links": {
+          "android_app_link": "consumerug://test",
+          "android_appstore": "market://details?id=com.consumerug",
+          "app_link": "",
+          "ios_app_link": "consumerug://test",
+          "ios_appstore": "https://apps.apple.com/us/app/mtn-momo/id1474080783"
+        },
+        "name": "MoMo",
+        "payment_source": "",
+        "type": "momo",
+        "value": "momo"
+      }
+    ],
+    "origin": "Catalogue",
+    "name": "",
+    "id": "ZM_Data_6275",
+    "nact_code": "ZM_Data_6275",
+    "echeck_code": "Prepaid",
+    "type": "Data",
+    "combo": null,
+    "can_buy_for_other": true,
+    "status": {
+      "id": 1,
+      "name": "active",
+      "color": "#57CC99",
+      "description": "active"
+    },
+    "category": {
+      "subscription_type": {
+        "id": 0,
+        "label": "",
+        "name": ""
+      },
+      "description": "",
+      "product": {
+        "description": "",
+        "icon": "",
+        "id": 0,
+        "index": 0,
+        "name": ""
+      },
+      "name": "",
+      "id": 0
+    },
+    "subscription_type": {
+      "id": 0,
+      "label": "",
+      "name": ""
+    },
+    "rule": {
+      "description": "",
+      "icon": "",
+      "rule_id": 0,
+      "rule_name": "",
+      "id": ""
+    },
+    "validity": {
+      "display_name": "",
+      "display_value": "",
+      "label": "",
+      "unit": "",
+      "value": 0,
+      "bundle_type": ""
+    },
+    "value": {
+      "bundle_type": "",
+      "display_name": "",
+      "display_value": 0,
+      "label": "",
+      "restriction": "",
+      "unit": "",
+      "value": 0
+    },
+    "size": {
+      "bundle_type": "",
+      "display_name": "",
+      "display_value": 0,
+      "label": "",
+      "restriction": "",
+      "unit": "",
+      "value": 0
+    },
+    "cost": {
+      "currency": "N",
+      "display_name": "NA",
+      "display_value": 0,
+      "label": "Cost",
+      "unit": "N",
+      "value": 0
+    },
+    "freebies": null,
+    "offer_categories": null
+  },
+  {
+    "_id": {
+      "$oid": "66f3a823c9ef32cc809ae717"
+    },
+    "payment_methods": [
+      {
+        "charging_system": "CIS",
+        "icon": "airtime",
+        "id": 1,
+        "links": null,
+        "name": "Airtime",
+        "payment_source": "",
+        "type": "airtime",
+        "value": "airtime"
+      },
+      {
+        "charging_system": "MOMO",
+        "icon": "momo",
+        "id": 2,
+        "links": {
+          "android_app_link": "consumerug://test",
+          "android_appstore": "market://details?id=com.consumerug",
+          "app_link": "",
+          "ios_app_link": "consumerug://test",
+          "ios_appstore": "https://apps.apple.com/us/app/mtn-momo/id1474080783"
+        },
+        "name": "MoMo",
+        "payment_source": "",
+        "type": "momo",
+        "value": "momo"
+      }
+    ],
+    "origin": "Catalogue",
+    "name": "Pulse Data @K7",
+    "id": "   NACT_ZM_Data_6780",
+    "nact_code": "   NACT_ZM_Data_6780",
+    "echeck_code": "Prepaid",
+    "type": "Data",
+    "combo": null,
+    "can_buy_for_other": true,
+    "status": {
+      "id": 1,
+      "name": "active",
+      "color": "#57CC99",
+      "description": "active"
+    },
+    "category": {
+      "subscription_type": {
+        "id": 0,
+        "label": "",
+        "name": ""
+      },
+      "description": "",
+      "product": {
+        "description": "",
+        "icon": "",
+        "id": 0,
+        "index": 0,
+        "name": ""
+      },
+      "name": "",
+      "id": 0
+    },
+    "subscription_type": {
+      "id": 0,
+      "label": "",
+      "name": ""
+    },
+    "rule": {
+      "description": "",
+      "icon": "",
+      "rule_id": 0,
+      "rule_name": "",
+      "id": ""
+    },
+    "validity": {
+      "display_name": "24hrs",
+      "display_value": "24hrs",
+      "label": "Valid for",
+      "unit": "24",
+      "value": 24,
+      "bundle_type": "Data"
+    },
+    "value": {
+      "bundle_type": "Data",
+      "display_name": "500MB",
+      "display_value": 500,
+      "label": "Data",
+      "restriction": "",
+      "unit": "MB",
+      "value": 500
+    },
+    "size": {
+      "bundle_type": "Data",
+      "display_name": "500MB",
+      "display_value": 500,
+      "label": "Data",
+      "restriction": "",
+      "unit": "MB",
+      "value": 500
+    },
+    "cost": {
+      "currency": "K",
+      "display_name": "K7",
+      "display_value": 7,
+      "label": "Cost",
+      "unit": "K",
+      "value": 7
+    },
+    "freebies": null,
+    "offer_categories": null
+  },
+  {
+    "_id": {
+      "$oid": "66f3a823c9ef32cc809ae718"
+    },
+    "payment_methods": [
+      {
+        "charging_system": "CIS",
+        "icon": "airtime",
+        "id": 1,
+        "links": null,
+        "name": "Airtime",
+        "payment_source": "",
+        "type": "airtime",
+        "value": "airtime"
+      },
+      {
+        "charging_system": "MOMO",
+        "icon": "momo",
+        "id": 2,
+        "links": {
+          "android_app_link": "consumerug://test",
+          "android_appstore": "market://details?id=com.consumerug",
+          "app_link": "",
+          "ios_app_link": "consumerug://test",
+          "ios_appstore": "https://apps.apple.com/us/app/mtn-momo/id1474080783"
+        },
+        "name": "MoMo",
+        "payment_source": "",
+        "type": "momo",
+        "value": "momo"
+      }
+    ],
+    "origin": "Catalogue",
+    "name": "Pulse Data @K9",
+    "id": "   NACT_ZM_Data_6781",
+    "nact_code": "   NACT_ZM_Data_6781",
+    "echeck_code": "Prepaid",
+    "type": "Data",
+    "combo": null,
+    "can_buy_for_other": true,
+    "status": {
+      "id": 1,
+      "name": "active",
+      "color": "#57CC99",
+      "description": "active"
+    },
+    "category": {
+      "subscription_type": {
+        "id": 0,
+        "label": "",
+        "name": ""
+      },
+      "description": "",
+      "product": {
+        "description": "",
+        "icon": "",
+        "id": 0,
+        "index": 0,
+        "name": ""
+      },
+      "name": "",
+      "id": 0
+    },
+    "subscription_type": {
+      "id": 0,
+      "label": "",
+      "name": ""
+    },
+    "rule": {
+      "description": "",
+      "icon": "",
+      "rule_id": 0,
+      "rule_name": "",
+      "id": ""
+    },
+    "validity": {
+      "display_name": "24hrs",
+      "display_value": "24hrs",
+      "label": "Valid for",
+      "unit": "24",
+      "value": 24,
+      "bundle_type": "Data"
+    },
+    "value": {
+      "bundle_type": "Data",
+      "display_name": "800MB",
+      "display_value": 800,
+      "label": "Data",
+      "restriction": "",
+      "unit": "MB",
+      "value": 800
+    },
+    "size": {
+      "bundle_type": "Data",
+      "display_name": "800MB",
+      "display_value": 800,
+      "label": "Data",
+      "restriction": "",
+      "unit": "MB",
+      "value": 800
+    },
+    "cost": {
+      "currency": "K",
+      "display_name": "K9",
+      "display_value": 9,
+      "label": "Cost",
+      "unit": "K",
+      "value": 9
+    },
+    "freebies": null,
+    "offer_categories": null
+  },
+  {
+    "_id": {
+      "$oid": "66f3a823c9ef32cc809ae719"
+    },
+    "payment_methods": [
+      {
+        "charging_system": "CIS",
+        "icon": "airtime",
+        "id": 1,
+        "links": null,
+        "name": "Airtime",
+        "payment_source": "",
+        "type": "airtime",
+        "value": "airtime"
+      },
+      {
+        "charging_system": "MOMO",
+        "icon": "momo",
+        "id": 2,
+        "links": {
+          "android_app_link": "consumerug://test",
+          "android_appstore": "market://details?id=com.consumerug",
+          "app_link": "",
+          "ios_app_link": "consumerug://test",
+          "ios_appstore": "https://apps.apple.com/us/app/mtn-momo/id1474080783"
+        },
+        "name": "MoMo",
+        "payment_source": "",
+        "type": "momo",
+        "value": "momo"
+      }
+    ],
+    "origin": "Catalogue",
+    "name": "Pulse Data @K12",
+    "id": "  NACT_ ZM_Data_6782",
+    "nact_code": "  NACT_ ZM_Data_6782",
+    "echeck_code": "Prepaid",
+    "type": "Data",
+    "combo": null,
+    "can_buy_for_other": true,
+    "status": {
+      "id": 1,
+      "name": "active",
+      "color": "#57CC99",
+      "description": "active"
+    },
+    "category": {
+      "subscription_type": {
+        "id": 0,
+        "label": "",
+        "name": ""
+      },
+      "description": "",
+      "product": {
+        "description": "",
+        "icon": "",
+        "id": 0,
+        "index": 0,
+        "name": ""
+      },
+      "name": "",
+      "id": 0
+    },
+    "subscription_type": {
+      "id": 0,
+      "label": "",
+      "name": ""
+    },
+    "rule": {
+      "description": "",
+      "icon": "",
+      "rule_id": 0,
+      "rule_name": "",
+      "id": ""
+    },
+    "validity": {
+      "display_name": " 24hrs",
+      "display_value": " 24hrs",
+      "label": "Valid for",
+      "unit": "24",
+      "value": 24,
+      "bundle_type": "Data"
+    },
+    "value": {
+      "bundle_type": "Data",
+      "display_name": "2.3GB",
+      "display_value": 0,
+      "label": "Data",
+      "restriction": "",
+      "unit": "GB",
+      "value": 0
+    },
+    "size": {
+      "bundle_type": "Data",
+      "display_name": "2.3GB",
+      "display_value": 0,
+      "label": "Data",
+      "restriction": "",
+      "unit": "GB",
+      "value": 0
+    },
+    "cost": {
+      "currency": "K",
+      "display_name": "K12",
+      "display_value": 12,
+      "label": "Cost",
+      "unit": "K",
+      "value": 12
+    },
+    "freebies": null,
+    "offer_categories": null
+  },
+  {
+    "_id": {
+      "$oid": "66f3a823c9ef32cc809ae71a"
+    },
+    "payment_methods": [
+      {
+        "charging_system": "CIS",
+        "icon": "airtime",
+        "id": 1,
+        "links": null,
+        "name": "Airtime",
+        "payment_source": "",
+        "type": "airtime",
+        "value": "airtime"
+      },
+      {
+        "charging_system": "MOMO",
+        "icon": "momo",
+        "id": 2,
+        "links": {
+          "android_app_link": "consumerug://test",
+          "android_appstore": "market://details?id=com.consumerug",
+          "app_link": "",
+          "ios_app_link": "consumerug://test",
+          "ios_appstore": "https://apps.apple.com/us/app/mtn-momo/id1474080783"
+        },
+        "name": "MoMo",
+        "payment_source": "",
+        "type": "momo",
+        "value": "momo"
+      }
+    ],
+    "origin": "Catalogue",
+    "name": "Pulse Data",
+    "id": "ZM_Data_6276",
+    "nact_code": "ZM_Data_6276",
+    "echeck_code": "Prepaid",
+    "type": "Data",
+    "combo": null,
+    "can_buy_for_other": true,
+    "status": {
+      "id": 1,
+      "name": "active",
+      "color": "#57CC99",
+      "description": "active"
+    },
+    "category": {
+      "subscription_type": {
+        "id": 0,
+        "label": "",
+        "name": ""
+      },
+      "description": "",
+      "product": {
+        "description": "",
+        "icon": "",
+        "id": 0,
+        "index": 0,
+        "name": ""
+      },
+      "name": "",
+      "id": 0
+    },
+    "subscription_type": {
+      "id": 0,
+      "label": "",
+      "name": ""
+    },
+    "rule": {
+      "description": "",
+      "icon": "",
+      "rule_id": 0,
+      "rule_name": "",
+      "id": ""
+    },
+    "validity": {
+      "display_name": "A",
+      "display_value": "A",
+      "label": "Valid for",
+      "unit": "A",
+      "value": 0,
+      "bundle_type": ""
+    },
+    "value": {
+      "bundle_type": "",
+      "display_name": "",
+      "display_value": 0,
+      "label": "",
+      "restriction": "",
+      "unit": "",
+      "value": 0
+    },
+    "size": {
+      "bundle_type": "",
+      "display_name": "",
+      "display_value": 0,
+      "label": "",
+      "restriction": "",
+      "unit": "",
+      "value": 0
+    },
+    "cost": {
+      "currency": "",
+      "display_name": "",
+      "display_value": 0,
+      "label": "",
+      "unit": "",
+      "value": 0
+    },
+    "freebies": null,
+    "offer_categories": null
+  },
+  {
+    "_id": {
+      "$oid": "66f3a823c9ef32cc809ae71b"
+    },
+    "payment_methods": [
+      {
+        "charging_system": "CIS",
+        "icon": "airtime",
+        "id": 1,
+        "links": null,
+        "name": "Airtime",
+        "payment_source": "",
+        "type": "airtime",
+        "value": "airtime"
+      },
+      {
+        "charging_system": "MOMO",
+        "icon": "momo",
+        "id": 2,
+        "links": {
+          "android_app_link": "consumerug://test",
+          "android_appstore": "market://details?id=com.consumerug",
+          "app_link": "",
+          "ios_app_link": "consumerug://test",
+          "ios_appstore": "https://apps.apple.com/us/app/mtn-momo/id1474080783"
+        },
+        "name": "MoMo",
+        "payment_source": "",
+        "type": "momo",
+        "value": "momo"
+      }
+    ],
+    "origin": "Catalogue",
+    "name": "Pulse Data @K15",
+    "id": "   NACT_ZM_Data_6783",
+    "nact_code": "   NACT_ZM_Data_6783",
+    "echeck_code": "Prepaid",
+    "type": "Data",
+    "combo": null,
+    "can_buy_for_other": true,
+    "status": {
+      "id": 1,
+      "name": "active",
+      "color": "#57CC99",
+      "description": "active"
+    },
+    "category": {
+      "subscription_type": {
+        "id": 0,
+        "label": "",
+        "name": ""
+      },
+      "description": "",
+      "product": {
+        "description": "",
+        "icon": "",
+        "id": 0,
+        "index": 0,
+        "name": ""
+      },
+      "name": "",
+      "id": 0
+    },
+    "subscription_type": {
+      "id": 0,
+      "label": "",
+      "name": ""
+    },
+    "rule": {
+      "description": "",
+      "icon": "",
+      "rule_id": 0,
+      "rule_name": "",
+      "id": ""
+    },
+    "validity": {
+      "display_name": " 7 Days",
+      "display_value": " 7 Days",
+      "label": "Valid for",
+      "unit": "7",
+      "value": 1,
+      "bundle_type": "Data"
+    },
+    "value": {
+      "bundle_type": "Data",
+      "display_name": "1GB",
+      "display_value": 1,
+      "label": "Data",
+      "restriction": "",
+      "unit": "GB",
+      "value": 1
+    },
+    "size": {
+      "bundle_type": "Data",
+      "display_name": "1GB",
+      "display_value": 1,
+      "label": "Data",
+      "restriction": "",
+      "unit": "GB",
+      "value": 1
+    },
+    "cost": {
+      "currency": "K",
+      "display_name": "K15",
+      "display_value": 15,
+      "label": "Cost",
+      "unit": "K",
+      "value": 15
+    },
+    "freebies": null,
+    "offer_categories": null
+  },
+  {
+    "_id": {
+      "$oid": "66f3a823c9ef32cc809ae71c"
+    },
+    "payment_methods": [
+      {
+        "charging_system": "CIS",
+        "icon": "airtime",
+        "id": 1,
+        "links": null,
+        "name": "Airtime",
+        "payment_source": "",
+        "type": "airtime",
+        "value": "airtime"
+      },
+      {
+        "charging_system": "MOMO",
+        "icon": "momo",
+        "id": 2,
+        "links": {
+          "android_app_link": "consumerug://test",
+          "android_appstore": "market://details?id=com.consumerug",
+          "app_link": "",
+          "ios_app_link": "consumerug://test",
+          "ios_appstore": "https://apps.apple.com/us/app/mtn-momo/id1474080783"
+        },
+        "name": "MoMo",
+        "payment_source": "",
+        "type": "momo",
+        "value": "momo"
+      }
+    ],
+    "origin": "Catalogue",
+    "name": "Pulse Data @K25",
+    "id": " NACT_ZM_Data_6444",
+    "nact_code": " NACT_ZM_Data_6444",
+    "echeck_code": "Prepaid",
+    "type": "Data",
+    "combo": null,
+    "can_buy_for_other": true,
+    "status": {
+      "id": 1,
+      "name": "active",
+      "color": "#57CC99",
+      "description": "active"
+    },
+    "category": {
+      "subscription_type": {
+        "id": 0,
+        "label": "",
+        "name": ""
+      },
+      "description": "",
+      "product": {
+        "description": "",
+        "icon": "",
+        "id": 0,
+        "index": 0,
+        "name": ""
+      },
+      "name": "",
+      "id": 0
+    },
+    "subscription_type": {
+      "id": 0,
+      "label": "",
+      "name": ""
+    },
+    "rule": {
+      "description": "",
+      "icon": "",
+      "rule_id": 0,
+      "rule_name": "",
+      "id": ""
+    },
+    "validity": {
+      "display_name": " Weekly ",
+      "display_value": " Weekly ",
+      "label": "Valid for",
+      "unit": "Weekly",
+      "value": 7,
+      "bundle_type": "Data"
+    },
+    "value": {
+      "bundle_type": "Data",
+      "display_name": "2GB",
+      "display_value": 2,
+      "label": "Data",
+      "restriction": "",
+      "unit": "GB",
+      "value": 2
+    },
+    "size": {
+      "bundle_type": "Data",
+      "display_name": "2GB",
+      "display_value": 2,
+      "label": "Data",
+      "restriction": "",
+      "unit": "GB",
+      "value": 2
+    },
+    "cost": {
+      "currency": "K",
+      "display_name": "K25",
+      "display_value": 25,
+      "label": "Cost",
+      "unit": "K",
+      "value": 25
+    },
+    "freebies": null,
+    "offer_categories": null
+  },
+  {
+    "_id": {
+      "$oid": "66f3a823c9ef32cc809ae71d"
+    },
+    "payment_methods": [
+      {
+        "charging_system": "CIS",
+        "icon": "airtime",
+        "id": 1,
+        "links": null,
+        "name": "Airtime",
+        "payment_source": "",
+        "type": "airtime",
+        "value": "airtime"
+      },
+      {
+        "charging_system": "MOMO",
+        "icon": "momo",
+        "id": 2,
+        "links": {
+          "android_app_link": "consumerug://test",
+          "android_appstore": "market://details?id=com.consumerug",
+          "app_link": "",
+          "ios_app_link": "consumerug://test",
+          "ios_appstore": "https://apps.apple.com/us/app/mtn-momo/id1474080783"
+        },
+        "name": "MoMo",
+        "payment_source": "",
+        "type": "momo",
+        "value": "momo"
+      }
+    ],
+    "origin": "Catalogue",
+    "name": "Pulse Data @K30",
+    "id": "NACT_ZM_Data_6784",
+    "nact_code": "NACT_ZM_Data_6784",
+    "echeck_code": "Prepaid",
+    "type": "Data",
+    "combo": null,
+    "can_buy_for_other": true,
+    "status": {
+      "id": 1,
+      "name": "active",
+      "color": "#57CC99",
+      "description": "active"
+    },
+    "category": {
+      "subscription_type": {
+        "id": 0,
+        "label": "",
+        "name": ""
+      },
+      "description": "",
+      "product": {
+        "description": "",
+        "icon": "",
+        "id": 0,
+        "index": 0,
+        "name": ""
+      },
+      "name": "",
+      "id": 0
+    },
+    "subscription_type": {
+      "id": 0,
+      "label": "",
+      "name": ""
+    },
+    "rule": {
+      "description": "",
+      "icon": "",
+      "rule_id": 0,
+      "rule_name": "",
+      "id": ""
+    },
+    "validity": {
+      "display_name": " Weekly ",
+      "display_value": " Weekly ",
+      "label": "Valid for",
+      "unit": "Weekly",
+      "value": 7,
+      "bundle_type": "Data"
+    },
+    "value": {
+      "bundle_type": "Data",
+      "display_name": "3GB",
+      "display_value": 3,
+      "label": "Data",
+      "restriction": "",
+      "unit": "GB",
+      "value": 3
+    },
+    "size": {
+      "bundle_type": "Data",
+      "display_name": "3GB",
+      "display_value": 3,
+      "label": "Data",
+      "restriction": "",
+      "unit": "GB",
+      "value": 3
+    },
+    "cost": {
+      "currency": "K",
+      "display_name": "K30",
+      "display_value": 30,
+      "label": "Cost",
+      "unit": "K",
+      "value": 30
+    },
+    "freebies": null,
+    "offer_categories": null
+  },
+  {
+    "_id": {
+      "$oid": "66f3a823c9ef32cc809ae71e"
+    },
+    "payment_methods": [
+      {
+        "charging_system": "CIS",
+        "icon": "airtime",
+        "id": 1,
+        "links": null,
+        "name": "Airtime",
+        "payment_source": "",
+        "type": "airtime",
+        "value": "airtime"
+      },
+      {
+        "charging_system": "MOMO",
+        "icon": "momo",
+        "id": 2,
+        "links": {
+          "android_app_link": "consumerug://test",
+          "android_appstore": "market://details?id=com.consumerug",
+          "app_link": "",
+          "ios_app_link": "consumerug://test",
+          "ios_appstore": "https://apps.apple.com/us/app/mtn-momo/id1474080783"
+        },
+        "name": "MoMo",
+        "payment_source": "",
+        "type": "momo",
+        "value": "momo"
+      }
+    ],
+    "origin": "Catalogue",
+    "name": "Unik Data @K50",
+    "id": "   NACT_ZM_Data_6785   ",
+    "nact_code": "   NACT_ZM_Data_6785   ",
+    "echeck_code": "Prepaid",
+    "type": "Data",
+    "combo": null,
+    "can_buy_for_other": true,
+    "status": {
+      "id": 1,
+      "name": "active",
+      "color": "#57CC99",
+      "description": "active"
+    },
+    "category": {
+      "subscription_type": {
+        "id": 0,
+        "label": "",
+        "name": ""
+      },
+      "description": "",
+      "product": {
+        "description": "",
+        "icon": "",
+        "id": 0,
+        "index": 0,
+        "name": ""
+      },
+      "name": "",
+      "id": 0
+    },
+    "subscription_type": {
+      "id": 0,
+      "label": "",
+      "name": ""
+    },
+    "rule": {
+      "description": "",
+      "icon": "",
+      "rule_id": 0,
+      "rule_name": "",
+      "id": ""
+    },
+    "validity": {
+      "display_name": " Weekly ",
+      "display_value": " Weekly ",
+      "label": "Valid for",
+      "unit": "Weekly",
+      "value": 7,
+      "bundle_type": "Data"
+    },
+    "value": {
+      "bundle_type": "Data",
+      "display_name": "5GB",
+      "display_value": 5,
+      "label": "Data",
+      "restriction": "",
+      "unit": "GB",
+      "value": 5
+    },
+    "size": {
+      "bundle_type": "Data",
+      "display_name": "5GB",
+      "display_value": 5,
+      "label": "Data",
+      "restriction": "",
+      "unit": "GB",
+      "value": 5
+    },
+    "cost": {
+      "currency": "K",
+      "display_name": "K50",
+      "display_value": 50,
+      "label": "Cost",
+      "unit": "K",
+      "value": 50
+    },
+    "freebies": null,
+    "offer_categories": null
+  },
+  {
+    "_id": {
+      "$oid": "66f3a823c9ef32cc809ae71f"
+    },
+    "payment_methods": [
+      {
+        "charging_system": "CIS",
+        "icon": "airtime",
+        "id": 1,
+        "links": null,
+        "name": "Airtime",
+        "payment_source": "",
+        "type": "airtime",
+        "value": "airtime"
+      },
+      {
+        "charging_system": "MOMO",
+        "icon": "momo",
+        "id": 2,
+        "links": {
+          "android_app_link": "consumerug://test",
+          "android_appstore": "market://details?id=com.consumerug",
+          "app_link": "",
+          "ios_app_link": "consumerug://test",
+          "ios_appstore": "https://apps.apple.com/us/app/mtn-momo/id1474080783"
+        },
+        "name": "MoMo",
+        "payment_source": "",
+        "type": "momo",
+        "value": "momo"
+      }
+    ],
+    "origin": "Catalogue",
+    "name": "Unik Data @K100",
+    "id": " NACT_ZM_Data_6445",
+    "nact_code": " NACT_ZM_Data_6445",
+    "echeck_code": "Prepaid",
+    "type": "Data",
+    "combo": null,
+    "can_buy_for_other": true,
+    "status": {
+      "id": 1,
+      "name": "active",
+      "color": "#57CC99",
+      "description": "active"
+    },
+    "category": {
+      "subscription_type": {
+        "id": 0,
+        "label": "",
+        "name": ""
+      },
+      "description": "",
+      "product": {
+        "description": "",
+        "icon": "",
+        "id": 0,
+        "index": 0,
+        "name": ""
+      },
+      "name": "",
+      "id": 0
+    },
+    "subscription_type": {
+      "id": 0,
+      "label": "",
+      "name": ""
+    },
+    "rule": {
+      "description": "",
+      "icon": "",
+      "rule_id": 0,
+      "rule_name": "",
+      "id": ""
+    },
+    "validity": {
+      "display_name": " Weekly ",
+      "display_value": " Weekly ",
+      "label": "Valid for",
+      "unit": "Weekly",
+      "value": 7,
+      "bundle_type": "Data"
+    },
+    "value": {
+      "bundle_type": "Data",
+      "display_name": "12GB",
+      "display_value": 12,
+      "label": "Data",
+      "restriction": "",
+      "unit": "GB",
+      "value": 12
+    },
+    "size": {
+      "bundle_type": "Data",
+      "display_name": "12GB",
+      "display_value": 12,
+      "label": "Data",
+      "restriction": "",
+      "unit": "GB",
+      "value": 12
+    },
+    "cost": {
+      "currency": "K",
+      "display_name": "K100",
+      "display_value": 100,
+      "label": "Cost",
+      "unit": "K",
+      "value": 100
+    },
+    "freebies": null,
+    "offer_categories": null
+  },
+  {
+    "_id": {
+      "$oid": "66f3a823c9ef32cc809ae720"
+    },
+    "payment_methods": [
+      {
+        "charging_system": "CIS",
+        "icon": "airtime",
+        "id": 1,
+        "links": null,
+        "name": "Airtime",
+        "payment_source": "",
+        "type": "airtime",
+        "value": "airtime"
+      },
+      {
+        "charging_system": "MOMO",
+        "icon": "momo",
+        "id": 2,
+        "links": {
+          "android_app_link": "consumerug://test",
+          "android_appstore": "market://details?id=com.consumerug",
+          "app_link": "",
+          "ios_app_link": "consumerug://test",
+          "ios_appstore": "https://apps.apple.com/us/app/mtn-momo/id1474080783"
+        },
+        "name": "MoMo",
+        "payment_source": "",
+        "type": "momo",
+        "value": "momo"
+      }
+    ],
+    "origin": "Catalogue",
+    "name": "Unik Data @K50",
+    "id": "   NACT_ZM_Data_6786",
+    "nact_code": "   NACT_ZM_Data_6786",
+    "echeck_code": "Prepaid",
+    "type": "Data",
+    "combo": null,
+    "can_buy_for_other": true,
+    "status": {
+      "id": 1,
+      "name": "active",
+      "color": "#57CC99",
+      "description": "active"
+    },
+    "category": {
+      "subscription_type": {
+        "id": 0,
+        "label": "",
+        "name": ""
+      },
+      "description": "",
+      "product": {
+        "description": "",
+        "icon": "",
+        "id": 0,
+        "index": 0,
+        "name": ""
+      },
+      "name": "",
+      "id": 0
+    },
+    "subscription_type": {
+      "id": 0,
+      "label": "",
+      "name": ""
+    },
+    "rule": {
+      "description": "",
+      "icon": "",
+      "rule_id": 0,
+      "rule_name": "",
+      "id": ""
+    },
+    "validity": {
+      "display_name": " Monthly ",
+      "display_value": " Monthly ",
+      "label": "Valid for",
+      "unit": "Monthly",
+      "value": 30,
+      "bundle_type": "Data"
+    },
+    "value": {
+      "bundle_type": "Data",
+      "display_name": "4GB",
+      "display_value": 4,
+      "label": "Data",
+      "restriction": "",
+      "unit": "GB",
+      "value": 4
+    },
+    "size": {
+      "bundle_type": "Data",
+      "display_name": "4GB",
+      "display_value": 4,
+      "label": "Data",
+      "restriction": "",
+      "unit": "GB",
+      "value": 4
+    },
+    "cost": {
+      "currency": "K",
+      "display_name": "K50",
+      "display_value": 50,
+      "label": "Cost",
+      "unit": "K",
+      "value": 50
+    },
+    "freebies": null,
+    "offer_categories": null
+  },
+  {
+    "_id": {
+      "$oid": "66f3a823c9ef32cc809ae721"
+    },
+    "payment_methods": [
+      {
+        "charging_system": "CIS",
+        "icon": "airtime",
+        "id": 1,
+        "links": null,
+        "name": "Airtime",
+        "payment_source": "",
+        "type": "airtime",
+        "value": "airtime"
+      },
+      {
+        "charging_system": "MOMO",
+        "icon": "momo",
+        "id": 2,
+        "links": {
+          "android_app_link": "consumerug://test",
+          "android_appstore": "market://details?id=com.consumerug",
+          "app_link": "",
+          "ios_app_link": "consumerug://test",
+          "ios_appstore": "https://apps.apple.com/us/app/mtn-momo/id1474080783"
+        },
+        "name": "MoMo",
+        "payment_source": "",
+        "type": "momo",
+        "value": "momo"
+      }
+    ],
+    "origin": "Catalogue",
+    "name": "Unik Data",
+    "id": "ZM_Data_6278",
+    "nact_code": "ZM_Data_6278",
+    "echeck_code": "Prepaid",
+    "type": "Data",
+    "combo": null,
+    "can_buy_for_other": true,
+    "status": {
+      "id": 1,
+      "name": "active",
+      "color": "#57CC99",
+      "description": "active"
+    },
+    "category": {
+      "subscription_type": {
+        "id": 0,
+        "label": "",
+        "name": ""
+      },
+      "description": "",
+      "product": {
+        "description": "",
+        "icon": "",
+        "id": 0,
+        "index": 0,
+        "name": ""
+      },
+      "name": "",
+      "id": 0
+    },
+    "subscription_type": {
+      "id": 0,
+      "label": "",
+      "name": ""
+    },
+    "rule": {
+      "description": "",
+      "icon": "",
+      "rule_id": 0,
+      "rule_name": "",
+      "id": ""
+    },
+    "validity": {
+      "display_name": "",
+      "display_value": "",
+      "label": "",
+      "unit": "",
+      "value": 0,
+      "bundle_type": ""
+    },
+    "value": {
+      "bundle_type": "",
+      "display_name": "",
+      "display_value": 0,
+      "label": "",
+      "restriction": "",
+      "unit": "",
+      "value": 0
+    },
+    "size": {
+      "bundle_type": "",
+      "display_name": "",
+      "display_value": 0,
+      "label": "",
+      "restriction": "",
+      "unit": "",
+      "value": 0
+    },
+    "cost": {
+      "currency": "",
+      "display_name": "",
+      "display_value": 0,
+      "label": "",
+      "unit": "",
+      "value": 0
+    },
+    "freebies": null,
+    "offer_categories": null
+  },
+  {
+    "_id": {
+      "$oid": "66f3a823c9ef32cc809ae722"
+    },
+    "payment_methods": [
+      {
+        "charging_system": "CIS",
+        "icon": "airtime",
+        "id": 1,
+        "links": null,
+        "name": "Airtime",
+        "payment_source": "",
+        "type": "airtime",
+        "value": "airtime"
+      },
+      {
+        "charging_system": "MOMO",
+        "icon": "momo",
+        "id": 2,
+        "links": {
+          "android_app_link": "consumerug://test",
+          "android_appstore": "market://details?id=com.consumerug",
+          "app_link": "",
+          "ios_app_link": "consumerug://test",
+          "ios_appstore": "https://apps.apple.com/us/app/mtn-momo/id1474080783"
+        },
+        "name": "MoMo",
+        "payment_source": "",
+        "type": "momo",
+        "value": "momo"
+      }
+    ],
+    "origin": "Catalogue",
+    "name": "Unik Data @K100",
+    "id": " NACT_ZM_Data_6446",
+    "nact_code": " NACT_ZM_Data_6446",
+    "echeck_code": "Prepaid",
+    "type": "Data",
+    "combo": null,
+    "can_buy_for_other": true,
+    "status": {
+      "id": 1,
+      "name": "active",
+      "color": "#57CC99",
+      "description": "active"
+    },
+    "category": {
+      "subscription_type": {
+        "id": 0,
+        "label": "",
+        "name": ""
+      },
+      "description": "",
+      "product": {
+        "description": "",
+        "icon": "",
+        "id": 0,
+        "index": 0,
+        "name": ""
+      },
+      "name": "",
+      "id": 0
+    },
+    "subscription_type": {
+      "id": 0,
+      "label": "",
+      "name": ""
+    },
+    "rule": {
+      "description": "",
+      "icon": "",
+      "rule_id": 0,
+      "rule_name": "",
+      "id": ""
+    },
+    "validity": {
+      "display_name": " Monthly ",
+      "display_value": " Monthly ",
+      "label": "Valid for",
+      "unit": "Monthly",
+      "value": 30,
+      "bundle_type": "Data"
+    },
+    "value": {
+      "bundle_type": "Data",
+      "display_name": "8.5GB",
+      "display_value": 0,
+      "label": "Data",
+      "restriction": "",
+      "unit": "GB",
+      "value": 0
+    },
+    "size": {
+      "bundle_type": "Data",
+      "display_name": "8.5GB",
+      "display_value": 0,
+      "label": "Data",
+      "restriction": "",
+      "unit": "GB",
+      "value": 0
+    },
+    "cost": {
+      "currency": "K",
+      "display_name": "K100",
+      "display_value": 100,
+      "label": "Cost",
+      "unit": "K",
+      "value": 100
+    },
+    "freebies": null,
+    "offer_categories": null
+  },
+  {
+    "_id": {
+      "$oid": "66f3a823c9ef32cc809ae723"
+    },
+    "payment_methods": [
+      {
+        "charging_system": "CIS",
+        "icon": "airtime",
+        "id": 1,
+        "links": null,
+        "name": "Airtime",
+        "payment_source": "",
+        "type": "airtime",
+        "value": "airtime"
+      },
+      {
+        "charging_system": "MOMO",
+        "icon": "momo",
+        "id": 2,
+        "links": {
+          "android_app_link": "consumerug://test",
+          "android_appstore": "market://details?id=com.consumerug",
+          "app_link": "",
+          "ios_app_link": "consumerug://test",
+          "ios_appstore": "https://apps.apple.com/us/app/mtn-momo/id1474080783"
+        },
+        "name": "MoMo",
+        "payment_source": "",
+        "type": "momo",
+        "value": "momo"
+      }
+    ],
+    "origin": "Catalogue",
+    "name": "Unik Data @K150",
+    "id": " NACT_ZM_Data_6447",
+    "nact_code": " NACT_ZM_Data_6447",
+    "echeck_code": "Prepaid",
+    "type": "Data",
+    "combo": null,
+    "can_buy_for_other": true,
+    "status": {
+      "id": 1,
+      "name": "active",
+      "color": "#57CC99",
+      "description": "active"
+    },
+    "category": {
+      "subscription_type": {
+        "id": 0,
+        "label": "",
+        "name": ""
+      },
+      "description": "",
+      "product": {
+        "description": "",
+        "icon": "",
+        "id": 0,
+        "index": 0,
+        "name": ""
+      },
+      "name": "",
+      "id": 0
+    },
+    "subscription_type": {
+      "id": 0,
+      "label": "",
+      "name": ""
+    },
+    "rule": {
+      "description": "",
+      "icon": "",
+      "rule_id": 0,
+      "rule_name": "",
+      "id": ""
+    },
+    "validity": {
+      "display_name": " Monthly ",
+      "display_value": " Monthly ",
+      "label": "Valid for",
+      "unit": "Monthly",
+      "value": 30,
+      "bundle_type": "Data"
+    },
+    "value": {
+      "bundle_type": "Data",
+      "display_name": "14GB",
+      "display_value": 14,
+      "label": "Data",
+      "restriction": "",
+      "unit": "GB",
+      "value": 14
+    },
+    "size": {
+      "bundle_type": "Data",
+      "display_name": "14GB",
+      "display_value": 14,
+      "label": "Data",
+      "restriction": "",
+      "unit": "GB",
+      "value": 14
+    },
+    "cost": {
+      "currency": "K",
+      "display_name": "K150",
+      "display_value": 150,
+      "label": "Cost",
+      "unit": "K",
+      "value": 150
+    },
+    "freebies": null,
+    "offer_categories": null
+  },
+  {
+    "_id": {
+      "$oid": "66f3a823c9ef32cc809ae724"
+    },
+    "payment_methods": [
+      {
+        "charging_system": "CIS",
+        "icon": "airtime",
+        "id": 1,
+        "links": null,
+        "name": "Airtime",
+        "payment_source": "",
+        "type": "airtime",
+        "value": "airtime"
+      },
+      {
+        "charging_system": "MOMO",
+        "icon": "momo",
+        "id": 2,
+        "links": {
+          "android_app_link": "consumerug://test",
+          "android_appstore": "market://details?id=com.consumerug",
+          "app_link": "",
+          "ios_app_link": "consumerug://test",
+          "ios_appstore": "https://apps.apple.com/us/app/mtn-momo/id1474080783"
+        },
+        "name": "MoMo",
+        "payment_source": "",
+        "type": "momo",
+        "value": "momo"
+      }
+    ],
+    "origin": "Catalogue",
+    "name": "Unik Data @K200",
+    "id": "NACT_ZM_Data_6787  ",
+    "nact_code": "NACT_ZM_Data_6787  ",
+    "echeck_code": "Prepaid",
+    "type": "Data",
+    "combo": null,
+    "can_buy_for_other": true,
+    "status": {
+      "id": 1,
+      "name": "active",
+      "color": "#57CC99",
+      "description": "active"
+    },
+    "category": {
+      "subscription_type": {
+        "id": 0,
+        "label": "",
+        "name": ""
+      },
+      "description": "",
+      "product": {
+        "description": "",
+        "icon": "",
+        "id": 0,
+        "index": 0,
+        "name": ""
+      },
+      "name": "",
+      "id": 0
+    },
+    "subscription_type": {
+      "id": 0,
+      "label": "",
+      "name": ""
+    },
+    "rule": {
+      "description": "",
+      "icon": "",
+      "rule_id": 0,
+      "rule_name": "",
+      "id": ""
+    },
+    "validity": {
+      "display_name": "Monthly",
+      "display_value": "Monthly",
+      "label": "Valid for",
+      "unit": "Monthly",
+      "value": 30,
+      "bundle_type": "Data"
+    },
+    "value": {
+      "bundle_type": "Data",
+      "display_name": "20GB",
+      "display_value": 20,
+      "label": "Data",
+      "restriction": "",
+      "unit": "GB",
+      "value": 20
+    },
+    "size": {
+      "bundle_type": "Data",
+      "display_name": "20GB",
+      "display_value": 20,
+      "label": "Data",
+      "restriction": "",
+      "unit": "GB",
+      "value": 20
+    },
+    "cost": {
+      "currency": "K",
+      "display_name": "K200",
+      "display_value": 200,
+      "label": "Cost",
+      "unit": "K",
+      "value": 200
+    },
+    "freebies": null,
+    "offer_categories": null
+  },
+  {
+    "_id": {
+      "$oid": "66f3a823c9ef32cc809ae725"
+    },
+    "payment_methods": [
+      {
+        "charging_system": "CIS",
+        "icon": "airtime",
+        "id": 1,
+        "links": null,
+        "name": "Airtime",
+        "payment_source": "",
+        "type": "airtime",
+        "value": "airtime"
+      },
+      {
+        "charging_system": "MOMO",
+        "icon": "momo",
+        "id": 2,
+        "links": {
+          "android_app_link": "consumerug://test",
+          "android_appstore": "market://details?id=com.consumerug",
+          "app_link": "",
+          "ios_app_link": "consumerug://test",
+          "ios_appstore": "https://apps.apple.com/us/app/mtn-momo/id1474080783"
+        },
+        "name": "MoMo",
+        "payment_source": "",
+        "type": "momo",
+        "value": "momo"
+      }
+    ],
+    "origin": "Catalogue",
+    "name": "Unik Data @K350",
+    "id": " NACT_ZM_Data_6448",
+    "nact_code": " NACT_ZM_Data_6448",
+    "echeck_code": "Prepaid",
+    "type": "Data",
+    "combo": null,
+    "can_buy_for_other": true,
+    "status": {
+      "id": 1,
+      "name": "active",
+      "color": "#57CC99",
+      "description": "active"
+    },
+    "category": {
+      "subscription_type": {
+        "id": 0,
+        "label": "",
+        "name": ""
+      },
+      "description": "",
+      "product": {
+        "description": "",
+        "icon": "",
+        "id": 0,
+        "index": 0,
+        "name": ""
+      },
+      "name": "",
+      "id": 0
+    },
+    "subscription_type": {
+      "id": 0,
+      "label": "",
+      "name": ""
+    },
+    "rule": {
+      "description": "",
+      "icon": "",
+      "rule_id": 0,
+      "rule_name": "",
+      "id": ""
+    },
+    "validity": {
+      "display_name": " Monthly ",
+      "display_value": " Monthly ",
+      "label": "Valid for",
+      "unit": "Monthly",
+      "value": 30,
+      "bundle_type": "Data"
+    },
+    "value": {
+      "bundle_type": "Data",
+      "display_name": "40GB",
+      "display_value": 40,
+      "label": "Data",
+      "restriction": "",
+      "unit": "GB",
+      "value": 40
+    },
+    "size": {
+      "bundle_type": "Data",
+      "display_name": "40GB",
+      "display_value": 40,
+      "label": "Data",
+      "restriction": "",
+      "unit": "GB",
+      "value": 40
+    },
+    "cost": {
+      "currency": "K",
+      "display_name": "K350",
+      "display_value": 350,
+      "label": "Cost",
+      "unit": "K",
+      "value": 350
+    },
+    "freebies": null,
+    "offer_categories": null
+  },
+  {
+    "_id": {
+      "$oid": "66f3a823c9ef32cc809ae726"
+    },
+    "payment_methods": [
+      {
+        "charging_system": "CIS",
+        "icon": "airtime",
+        "id": 1,
+        "links": null,
+        "name": "Airtime",
+        "payment_source": "",
+        "type": "airtime",
+        "value": "airtime"
+      },
+      {
+        "charging_system": "MOMO",
+        "icon": "momo",
+        "id": 2,
+        "links": {
+          "android_app_link": "consumerug://test",
+          "android_appstore": "market://details?id=com.consumerug",
+          "app_link": "",
+          "ios_app_link": "consumerug://test",
+          "ios_appstore": "https://apps.apple.com/us/app/mtn-momo/id1474080783"
+        },
+        "name": "MoMo",
+        "payment_source": "",
+        "type": "momo",
+        "value": "momo"
+      }
+    ],
+    "origin": "Catalogue",
+    "name": "",
+    "id": " NACT_ZM_Data_6449",
+    "nact_code": " NACT_ZM_Data_6449",
+    "echeck_code": "Prepaid",
+    "type": "Data",
+    "combo": null,
+    "can_buy_for_other": true,
+    "status": {
+      "id": 1,
+      "name": "active",
+      "color": "#57CC99",
+      "description": "active"
+    },
+    "category": {
+      "subscription_type": {
+        "id": 0,
+        "label": "",
+        "name": ""
+      },
+      "description": "",
+      "product": {
+        "description": "",
+        "icon": "",
+        "id": 0,
+        "index": 0,
+        "name": ""
+      },
+      "name": "",
+      "id": 0
+    },
+    "subscription_type": {
+      "id": 0,
+      "label": "",
+      "name": ""
+    },
+    "rule": {
+      "description": "",
+      "icon": "",
+      "rule_id": 0,
+      "rule_name": "",
+      "id": ""
+    },
+    "validity": {
+      "display_name": "",
+      "display_value": "",
+      "label": "",
+      "unit": "",
+      "value": 0,
+      "bundle_type": ""
+    },
+    "value": {
+      "bundle_type": "",
+      "display_name": "",
+      "display_value": 0,
+      "label": "",
+      "restriction": "",
+      "unit": "",
+      "value": 0
+    },
+    "size": {
+      "bundle_type": "",
+      "display_name": "",
+      "display_value": 0,
+      "label": "",
+      "restriction": "",
+      "unit": "",
+      "value": 0
+    },
+    "cost": {
+      "currency": "N",
+      "display_name": "NA",
+      "display_value": 0,
+      "label": "Cost",
+      "unit": "N",
+      "value": 0
+    },
+    "freebies": null,
+    "offer_categories": null
+  }
+]

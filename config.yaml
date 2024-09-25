@@ -1,0 +1,22 @@
+data.xlsx: 
+  sheet1:
+     columns:
+      product_id: 0
+      offer_id: 1
+      nact_id: 2
+      amount: 3
+      data: 4
+      validity: 5
+      display_name: 6
+      portfolio_name: 7
+  sheet2:
+    columns:
+      product_id: 0
+      nact_id: 1
+      amount: 2
+      data: 3
+      mins : 4
+      validity: 5
+      display_name: 6
+      portfolio_name: 7
+ 
