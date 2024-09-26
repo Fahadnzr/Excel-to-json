@@ -18,19 +18,8 @@ go run generate.go --input data.xlsx --output output.json --sheet Sheet1
 - `-sheet` specifies the name of the sheet to read from the Excel file. (Default: `Sheet1`)
 
 ## YAML Configuration
-The YAML configuration file defines the sheet name, row indices, and column mappings. Here is an example of a config.yml:
-  ```yaml
-  sheet_name: "Sheet1"
-  columns:
-    pid: "PID"
-    offer_id: "Offer ID"
-    activation_id: "ACTIVATION_ID"
-    allocation: "Allocation"
-    validity: "Validity"
-    display_name: "Display Name"
-    portfolio_name: "Portfolio Name"
-    amount: "Amount"
-    ```
+The YAML configuration file defines the sheet name, row indices, and column mappings.:
+
 
 ## Functionality
 
@@ -69,51 +58,5 @@ func WriteJSONData(outputFile string, data []models.Record) error
 - **data**: A slice of `models.Record` to be written as JSON.
 - **Returns**: An error, if any.
 
-## Example
 
-Suppose you have the following data in an Excel file (`data.xlsx`):
-
-| PID   | Offer ID | ACTIVATION_ID | Allocation | Validity | Display Name | Portfolio Name | Amount  |
-|-------|----------|---------------|------------|----------|--------------|----------------|---------|
-| PID01 | OFFER01  | ACT001        | 50         | 30 days  | Basic Plan   | Portfolio A    | 100 USD |
-| PID02 | OFFER02  | ACT002        | 75         | 60 days  | Pro Plan     | Portfolio B    | 200 USD |
-
-Run the program using the command:
-
-```bash
-go run main.go -input="data.xlsx" -output="output.json" -sheet="Sheet1"
-```
-
-The resulting `output.json` file will contain:
-
-```json
-[
-  {
-    "PID": "PID01",
-    "OfferID": "OFFER01",
-    "ActivationID": "ACT001",
-    "Allocation": "50",
-    "Validity": "30 days",
-    "DisplayName": "Basic Plan",
-    "PortfolioName": "Portfolio A",
-    "Amount": {
-      "Cost": 100,
-      "Currency": "USD"
-    }
-  },
-  {
-    "PID": "PID02",
-    "OfferID": "OFFER02",
-    "ActivationID": "ACT002",
-    "Allocation": "75",
-    "Validity": "60 days",
-    "DisplayName": "Pro Plan",
-    "PortfolioName": "Portfolio B",
-    "Amount": {
-      "Cost": 200,
-      "Currency": "USD"
-    }
-  }
-]
-```
 
